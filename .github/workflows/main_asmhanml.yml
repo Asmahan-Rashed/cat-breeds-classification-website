@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'AsmhanML'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EBF5C0D131214B83A318EEBA1BEE2144 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D37F3D5F94E84E22A6FB7D254E7D245C }}
